@@ -1,3 +1,16 @@
 h2 {
     margin-left: 20px;
+    text-align: center;
+}
+
+.small-title {
+    font-size: 10px;
+}
+
+.blue-title {
+    color: darkblue;
+}
+
+.underline-title {
+    text-decoration: underline;
 }

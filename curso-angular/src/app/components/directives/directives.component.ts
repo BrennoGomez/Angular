@@ -11,6 +11,10 @@ export class DirectivesComponent implements OnInit {
   font = 'Arial';
   color = 'darkgreen';
 
+  classe = ['blue-title', 'small-title']
+
+  underline = 'underline-title'
+
   constructor() { }
 
   ngOnInit(): void {
