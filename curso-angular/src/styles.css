@@ -9,3 +9,10 @@
 h2 {
     color: blue;
 }
+
+.title {
+    background: black;
+    color: blue;
+    padding: 15px;
+    text-align: center;
+}
