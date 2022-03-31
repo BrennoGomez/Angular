@@ -18,3 +18,9 @@ h2 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.aula {
+    border-bottom: 1px solid red;
+    padding: 2em;
+    margin-bottom: 1em;
+}
