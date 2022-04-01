@@ -19,6 +19,10 @@ h2 {
     margin-bottom: 10px;
 }
 
+body {
+    margin-bottom: 100px;
+}
+
 .aula {
     border-bottom: 1px solid red;
     padding: 2em;
